@@ -2,11 +2,13 @@
 <?php
 
 //Install Package 
+//composer require google/apiclient
+
 //In Line 49 replace [project-id] with your project ID
 //In Line 33, 35 and 36 change as per your requirements
 
 
-//composer require google/apiclient
+
 use Google\Client as GoogleClient;
 
 // Replace with your FCM server key
